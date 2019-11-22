@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "yelo-c19f6",
+  "private_key_id": "13c009faf0738abfab82fcf0bee2ed3a04d0edc1",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDJ91tKcgIkKs67\nlJkr0gEOjBF9YEGBEf9LA7pdvH8PCqEZ2JRJwXpNn8Yqc3a4xIFwVmtBQRUdsReQ\nd8MkqUvV0VNEQkZ+OF9Qsud6J+ycLfg5lJepMy9ePufypC3AiW9U5LF7LPsGxSNE\nMqyJPZxfbhZWqV3vp29RfgiePzYD2b1USfGwjyB+OTlfUD1uGn7ZfM6VlYbPj4+I\n3w2gNgRQYtPxxUzQlY1U/X7P6HlBikXHUveNil3f8XYeF6S1v6wZVUlWdGikK+k6\nHV0HQrBNCdSjCQx7zg9L5ivn++5SYkf3/d+85GG37isi7lqb/aaYOAeNhmIhR3XP\n5fIoxM99AgMBAAECggEADPU0k3pslj7z3Bec2zGiVTlZ3uon0bzinQC8eoqfOUsU\nini5jODftK7BU1Rso86hwmAdCgb/sJO94Aw7BjVhcvK27ax14t/Bh8cusEjy9pNB\nd4pHz7iDu797+LadY9q9fJweoflBEs5fpJ6+sKB2Ea5Zuw4rQ3bB3t/f9C04jTcU\nLrLkWWBrdmXcYlPeVnNyoD/Gqove0yhKrSLVNHQxSBOUHHj7UL6CNcJwFhQlxVDj\nk7cIiKEZ1O4rwTrmnf4pAv9HcYx+qU2HdMGnJkUasz2Yzz6G5UB8lKIUILhLsNPV\n09B9CTzHLqPW5Ukqq4PYo2lwKNfDehgl+MP+4T5XAQKBgQDnf+on9ui4oJzsFsQa\ns67J4OLy03HtnL6Xla8eW4VFnO/pnDdOLnRT36/w1z5WneElhRhAi810Zg6yoiXq\no4L5amV5kGwgignzP7cjaj+qbIgarE2Kj5zv75TWavvTqwDx4jbFJhAmK3f5QYxO\nXuXFGmLU1wb5aONyiW8juOaTAQKBgQDfV0jRF0mo0wMpo8vix/Mu7I1SUxm6WQ8r\n072HafzhcvduoYgaE/o7OQTuD0yNIHZPXGrzLiTvE1PMPgBBwbOmHdVoMNNoH7jr\nxyjA7oERow6jZqGQB9cWAfjass+V2/9KBWF/lMkYh8meSoZpxm4onkOLjibdbWuS\n1CB29pcIfQKBgQCLPeIelaGW42xfiLX9hZQdczmuasX88KmmzW6eaNf5bhLTxZVy\nXfi0NjhCOYUSXjX89lgHAs/aMkSm52a9AgqWcIuGmfqfe8fOWsWR9KdEn7Ehsf+V\n1xnDK6yvZ3v+7b1MwA7HeESAYObxsp5sySGU83D8qjVUsOUVkFqb9uwhAQKBgGGQ\nSqH0b1wNmeMVx5owyJ3l/jJJVQLfps35eGDwPuTpiQdODxt9QKGgXfP0wPchiC1Q\n7POAY+gAZGnjZ89R472caL5UHfXtbaWp4bauObnPpjRhQBCgLChUAjbfR+lqKlJW\nmWnXQCW0I7I/UgphAXxC7rTHC1lNVGHWwrvVKtMtAoGAGXtnVHyIKZM/X9Y7Qb4C\nUUocbQKK3iMkYqn14th+U8PWXuT8coxwcPXTGAgmLsiiKr9Ge1S7nxykHULYqa7R\n9smiNn21245cdiHJlmPQYTqRmssmdTrLBlD1JWNa0LPQOsZPnQQsMS6sx/6OAbhs\n7kBgF9mAEO6KNUyvPBlChiU=\n-----END PRIVATE KEY-----\n",
+  "client_email": "yelo-chat-server@yelo-c19f6.iam.gserviceaccount.com",
+  "client_id": "115561336212590916941",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/yelo-chat-server%40yelo-c19f6.iam.gserviceaccount.com"
+}

@@ -1,0 +1,29 @@
+{
+    "HOST": "0.0.0.0",
+    "PORT": 5010,
+    "MQTT_BROKER_HOST": "localhost",
+    "MQTT_BROKER_PORT": 1883,
+    "MESSAGE_TYPES": [
+        "text",
+        "image",
+        "video",
+        "location",
+        "concat",
+        "audio",
+        "sticker",
+        "doodle",
+        "gify"
+    ],
+    "USER_DB": "userList__yellow",
+    "MESSAGE_DB": "messages__yellow",
+    "CHAT_LIST_DB": "chatList__yellow",
+    "MESSAGE_LOGS_DB": "messageLogs__yellow",
+    "appName" : "Bingalo",
+    "secretKey": "support@Bingalo",
+    "mailGunDomain": "sandbox5c2d05bc6ab142fcb2967f231db491ba.mailgun.org",
+    "mailGunAPiKey": "key-3363e829764300f51baea4f7af12ef07",
+    "authorization": "KMajNKHPqGt6kXwUbFN3dU46PjThSNTtrEnPZUefdasdfghsaderf1234567890ghfghsdfghjfghjkswdefrtgyhdfghj",
+    "mqttUserName": "bingalo",
+    "mqttPassword": "rspEyX3F8gZZJBcMMh",
+    "mongodbUrl" : "mongodb://bingalo:FU8UgU5cPxSvcEs3CP@165.227.208.130:27017/bingalo"
+}

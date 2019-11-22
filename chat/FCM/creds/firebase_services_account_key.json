@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "426668975834",
+    "firebase_url": "https://mqttchat-172313.firebaseio.com",
+    "project_id": "mqttchat-172313",
+    "storage_bucket": "mqttchat-172313.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:426668975834:android:53b65ee572da43cc",
+        "android_client_info": {
+          "package_name": "com.example.moda.mqttchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "426668975834-h81jt6nga3960tapmm55fpi8vtj4tnn0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.moda.mqttchat",
+            "certificate_hash": "4551cc126aa7936afc1f48eaddb4c81f82409fe9"
+          }
+        },
+        {
+          "client_id": "426668975834-39qh75r25qersltdteguhhdrmf74qec6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAucHCzfoJClNfI_FJOhFNsvngR7l8kw4E"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "426668975834-39qh75r25qersltdteguhhdrmf74qec6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
