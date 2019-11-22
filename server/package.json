@@ -19,7 +19,7 @@
     "cors": "2.8.4",
     "cron": "1.2.1",
     "curlrequest": "1.0.1",
-    "debug": "~2.2.0",
+    "debug": "~4.1.1",
     "express": "~4.13.1",
     "express-fileupload": "0.1.4",
     "express-rate-limit": "2.8.0",
